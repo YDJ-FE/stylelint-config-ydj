@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-config-ydj",
+  "version": "0.0.1",
+  "description": "the stylelint config for YDJ-FE TEAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YDJ-FE/stylelint-config-ydj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YDJ-FE/stylelint-config-ydj/issues"
+  },
+  "homepage": "https://github.com/YDJ-FE/stylelint-config-ydj#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "stylelint-config-standard": "^17.0.0",
+    "stylelint-order": "^0.7.0",
+    "stylelint-scss": "^2.1.0"
+  },
+  "devDependencies": {
+    "stylelint": "^8.0.0"
+  }
+}
