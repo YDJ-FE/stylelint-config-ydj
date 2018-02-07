@@ -19,6 +19,7 @@
   "homepage": "https://github.com/YDJ-FE/stylelint-config-ydj#readme",
   "dependencies": {
     "htmlparser2": "^3.9.2",
+    "stylelint-config-prettier": "^2.0.0",
     "stylelint-config-standard": "^17.0.0",
     "stylelint-order": "^0.7.0",
     "stylelint-scss": "^2.1.0"
